@@ -1,0 +1,5 @@
+{
+    "threads": 20,
+    "is_do_task" : true,
+    "wait_time": 28800
+}
